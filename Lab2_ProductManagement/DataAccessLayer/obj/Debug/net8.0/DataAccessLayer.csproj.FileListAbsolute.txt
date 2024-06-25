@@ -1,0 +1,31 @@
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\FPT\PRN212\Lab2_ProductManagement\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

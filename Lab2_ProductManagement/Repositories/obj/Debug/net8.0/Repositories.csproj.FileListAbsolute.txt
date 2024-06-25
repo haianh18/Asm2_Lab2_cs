@@ -1,0 +1,35 @@
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\bin\Debug\net8.0\Repositories.deps.json
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\bin\Debug\net8.0\Repositories.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\bin\Debug\net8.0\Repositories.pdb
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.pdb
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\FPT\PRN212\Lab2_ProductManagement\Repositories\obj\Debug\net8.0\ref\Repositories.dll

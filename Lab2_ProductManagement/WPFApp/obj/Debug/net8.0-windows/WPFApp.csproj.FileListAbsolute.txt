@@ -1,0 +1,171 @@
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.csproj.AssemblyReference.cache
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\App.g.cs
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp_MarkupCompile.cache
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp_MarkupCompile.lref
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\WPFApp.exe
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\WPFApp.deps.json
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\WPFApp.runtimeconfig.json
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\WPFApp.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\WPFApp.pdb
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\BusinessObjects.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\DataAccessLayer.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Repositories.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Services.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Services.pdb
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\BusinessObjects.pdb
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Repositories.pdb
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\LoginWindow.baml
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\MainWindow.baml
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.g.resources
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.AssemblyInfoInputs.cache
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.AssemblyInfo.cs
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.csproj.CoreCompileInputs.cache
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.csproj.Up2Date
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\refint\WPFApp.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.pdb
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.genruntimeconfig.cache
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\ref\WPFApp.dll
+F:\FPT\PRN212\EF Demo\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\appsettings.json
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\appsettings.json
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\WPFApp.exe
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\WPFApp.deps.json
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\WPFApp.runtimeconfig.json
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\WPFApp.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\WPFApp.pdb
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\BusinessObjects.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\DataAccessLayer.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Repositories.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Services.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Services.pdb
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\BusinessObjects.pdb
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\bin\Debug\net8.0-windows\Repositories.pdb
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.csproj.AssemblyReference.cache
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\App.g.cs
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp_MarkupCompile.cache
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp_MarkupCompile.lref
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\MainWindow.baml
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.g.resources
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.AssemblyInfoInputs.cache
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.AssemblyInfo.cs
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.sourcelink.json
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.csproj.Up2Date
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\refint\WPFApp.dll
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.pdb
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\WPFApp.genruntimeconfig.cache
+D:\FPT\PRN212\Lab2_ProductManagement\WPFApp\obj\Debug\net8.0-windows\ref\WPFApp.dll
