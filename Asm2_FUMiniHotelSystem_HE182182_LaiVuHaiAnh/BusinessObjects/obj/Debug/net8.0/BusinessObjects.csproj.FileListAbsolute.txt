@@ -26,3 +26,4 @@ D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\BusinessO
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\BusinessObjects\obj\Debug\net8.0\BusinessObjects.sourcelink.json

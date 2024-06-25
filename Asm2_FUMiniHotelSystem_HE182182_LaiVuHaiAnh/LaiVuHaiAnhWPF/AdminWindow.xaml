@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LaiVuHaiAnhWPF"
         mc:Ignorable="d"
-        Title="Admin Window" Height="550" Width="800"
+        Title="Admin Window" Height="581" Width="800"
                 WindowStartupLocation="CenterScreen">
 
     <Grid>
@@ -30,6 +30,7 @@
                 <RowDefinition Height="100"/>
                 <RowDefinition Height="100"/>
                 <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
             </Grid.RowDefinitions>
             <Label Content="Welcome Admin" Grid.Row="0"
             
@@ -39,19 +40,23 @@
 
             <Button Name="btnManageCustomer" Grid.Row="1" 
             Content="Manage Customer" 
-            Margin="100,28,100,5" Click="btnManageCustomer_Click"
+            Margin="100,0,100,33" Click="btnManageCustomer_Click"
                 Background="#FF0099FF" BorderBrush="White" Foreground="White"></Button>
             <Button Name="btnManageRoom" Grid.Row="2" 
             Content="Manage Room" 
-            Margin="100,40,100,93" Click="btnManageRoom_Click"
-                Background="#FF1B7140" Foreground="White" Grid.RowSpan="2"></Button>
-            <Button Name="btnReport" Grid.Row="3" 
+            Margin="100,0,100,33" Click="btnManageRoom_Click"
+                Background="#FF1B7140" Foreground="White"/>
+            <Button Name="btnReport" Grid.Row="4" 
     Content="View report" 
-    Margin="100,51,100,82" Click="btnReport_Click"
-                Foreground="White" Background="#FFA2AA3D" Grid.RowSpan="2"></Button>
-            <Button Name="btnLogOut" Grid.Row="4" 
+    Margin="100,0,100,33" Click="btnReport_Click"
+                Foreground="White" Background="#FFA2AA3D"/>
+            <Button Name="btnManageBooking" Grid.Row="3" 
+Content="Manage Booking" 
+Margin="100,0,100,33" Click="btnManageBooking_Click"
+    Background="BlueViolet" Foreground="White"></Button>
+            <Button Name="btnLogOut" Grid.Row="5" 
             Content="Log Out" 
-            Margin="100,63,100,-30" Click="btnLogOut_Click"
+            Margin="100,0,100,33" Click="btnLogOut_Click"
                 Background="#FFEF8F18" Foreground="White"></Button>
         </Grid>
         <Image Margin="0,0,3,0" Source="/Assets/Img/hotel.jpg" Stretch="Fill"/>

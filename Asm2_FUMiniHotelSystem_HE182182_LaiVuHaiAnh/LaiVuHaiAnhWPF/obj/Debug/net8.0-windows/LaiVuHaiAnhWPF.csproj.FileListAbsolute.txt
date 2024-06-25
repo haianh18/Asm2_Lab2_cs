@@ -97,9 +97,12 @@ D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\LaiVuHaiA
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\LaiVuHaiAnhWPF\obj\Debug\net8.0-windows\LaiVuHaiAnhWPF.AssemblyInfoInputs.cache
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\LaiVuHaiAnhWPF\obj\Debug\net8.0-windows\LaiVuHaiAnhWPF.AssemblyInfo.cs
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\LaiVuHaiAnhWPF\obj\Debug\net8.0-windows\LaiVuHaiAnhWPF.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\LaiVuHaiAnhWPF\obj\Debug\net8.0-windows\LaiVuHaiAnhWPF.sourcelink.json
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\LaiVuHaiAnhWPF\obj\Debug\net8.0-windows\LaiVuHai.581246CE.Up2Date
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\LaiVuHaiAnhWPF\obj\Debug\net8.0-windows\LaiVuHaiAnhWPF.dll
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\LaiVuHaiAnhWPF\obj\Debug\net8.0-windows\refint\LaiVuHaiAnhWPF.dll
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\LaiVuHaiAnhWPF\obj\Debug\net8.0-windows\LaiVuHaiAnhWPF.pdb
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\LaiVuHaiAnhWPF\obj\Debug\net8.0-windows\LaiVuHaiAnhWPF.genruntimeconfig.cache
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\LaiVuHaiAnhWPF\obj\Debug\net8.0-windows\ref\LaiVuHaiAnhWPF.dll
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\LaiVuHaiAnhWPF\obj\Debug\net8.0-windows\ManageBookingWindow.g.cs
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\LaiVuHaiAnhWPF\obj\Debug\net8.0-windows\ManageBookingWindow.baml

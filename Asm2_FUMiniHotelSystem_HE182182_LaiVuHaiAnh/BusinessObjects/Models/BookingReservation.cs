@@ -5,6 +5,12 @@ namespace BusinessObjects.Models;
 
 public partial class BookingReservation
 {
+    private static int _nextId = 3; // Biến tĩnh để giữ giá trị tiếp theo của BookingReservationId
+
+    public BookingReservation()
+    {
+        BookingReservationId = _nextId++;
+    }
     public int BookingReservationId { get; set; }
 
     public DateTime BookingDate { get; set; }

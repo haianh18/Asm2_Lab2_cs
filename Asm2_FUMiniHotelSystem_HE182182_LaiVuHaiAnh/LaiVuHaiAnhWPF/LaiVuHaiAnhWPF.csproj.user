@@ -25,6 +25,9 @@
     <Compile Update="LogInWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="ManageBookingWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="ManageCustomerWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -58,6 +61,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageBookingWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="ManageCustomerWindow.xaml">

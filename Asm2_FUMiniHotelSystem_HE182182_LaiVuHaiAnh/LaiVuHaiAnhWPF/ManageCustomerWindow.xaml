@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LaiVuHaiAnhWPF"
         mc:Ignorable="d"
+        Loaded="Window_Loaded"
         Title="Manage Customer" Height="500" Width="900"
         WindowStartupLocation="CenterScreen"
         ResizeMode="NoResize"
@@ -124,8 +125,9 @@
                         FontSize="18"
                         Name="btnSearchCustomer"
                         Click="btnSearchCustomer_Click"
-                        Background="WhiteSmoke"
-                        Foreground="Black">
+                        Background="Wheat"
+                        Foreground="Black"
+                        >
                     <Button.Template>
                         <ControlTemplate TargetType="Button">
                             <Border CornerRadius="15" Background="{TemplateBinding Background}">
@@ -135,11 +137,32 @@
                     </Button.Template>
                 </Button>
 
-                <TextBox Width="200"
-                         Height="30"
-                         VerticalContentAlignment="Center"
-                         Name="txtSearchCustomer"
-                         Margin="10,0,0,0"/>
+                <Grid>
+                    <TextBox Width="200"
+                 Height="30"
+                 VerticalContentAlignment="Center"
+                 Name="txtSearchCustomer"
+                 Margin="10,0,0,0"
+                 TextChanged="txtSearchCustomer_TextChanged"/>
+
+                    <TextBlock Text="Search by name..."
+                   IsHitTestVisible="False"
+                   Foreground="Gray"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"
+                   Margin="15,0,0,0">
+                        <TextBlock.Style>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="Visibility" Value="Collapsed"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding Text, ElementName=txtSearchCustomer}" Value="">
+                                        <Setter Property="Visibility" Value="Visible"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </TextBlock.Style>
+                    </TextBlock>
+                </Grid>
                 <TextBox Name="txtCustomerID" Visibility="Hidden"/>
             </StackPanel>
 
@@ -150,7 +173,7 @@
                       Name="dgData" SelectionMode="Single"
                       SelectionChanged="dgData_SelectionChanged" Margin="2,0,0,0" Grid.Column="1">
                 <DataGrid.Columns>
-                    <DataGridTextColumn Header="Customer ID" Width="1*"
+                    <DataGridTextColumn Header="CustomerID" Width="1*"
                                         IsReadOnly="True" 
                                         Binding="{Binding CustomerId}"/>
                     <DataGridTextColumn Header="Full Name" Width="2*"
@@ -159,10 +182,10 @@
                     <DataGridTextColumn Header="Telephone" Width="1*"
                                         IsReadOnly="True" 
                                         Binding="{Binding Telephone}"/>
-                    <DataGridTextColumn Header="Email Address" Width="2*"
+                    <DataGridTextColumn Header="Email" Width="2*"
                                         IsReadOnly="True" 
                                         Binding="{Binding EmailAddress}"/>
-                    <DataGridTextColumn Header="Date of Birth" Width="1*"
+                    <DataGridTextColumn Header="DoB" Width="1*"
                                         IsReadOnly="True" 
                                         Binding="{Binding CustomerBirthday, 
                                         StringFormat={}{0:dd/MM/yyyy}}"/>
@@ -179,7 +202,7 @@
                         Height="30"
                         Margin="0,0,50,0"
                         Click="btnLogout1_Click"
-                        Background="WhiteSmoke"
+                        Background="Gray"
                         Foreground="Black">
                     <Button.Template>
                         <ControlTemplate TargetType="Button">
@@ -195,7 +218,7 @@
                         Width="100"
                         Height="30"
                         Click="btnClose_Click"
-                        Background="WhiteSmoke"
+                        Background="Gray"
                         Foreground="Black">
                     <Button.Template>
                         <ControlTemplate TargetType="Button">

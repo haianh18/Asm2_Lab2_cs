@@ -17,3 +17,4 @@ D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Repositor
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Repositories\obj\Debug\net8.0\refint\Repositories.dll
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Repositories\obj\Debug\net8.0\Repositories.pdb
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json

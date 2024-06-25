@@ -34,6 +34,9 @@ namespace LaiVuHaiAnhWPF
 #if DEBUG
             txtEmail.Text = "admin@FUMiniHotelSystem.com";
             txtPass.Password = "@@abc123@@";
+
+            //txtEmail.Text = "WilliamShakespeare@FUMiniHotel.org";
+            //txtPass.Password = "123@";
 #endif
 
             if (string.IsNullOrEmpty(txtEmail.Text) || string.IsNullOrEmpty(txtPass.Password))

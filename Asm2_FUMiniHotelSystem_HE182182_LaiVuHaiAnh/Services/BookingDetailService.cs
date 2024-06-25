@@ -11,5 +11,9 @@ namespace Services
         BookingDetail GetBookingDetailById(int bookingReservationId, int roomId);
 
         List<BookingDetail> GetBookingDetailsByBookingID(int bookingId);
+
+        List<BookingDetail> GetBookingDetailsByRoomID(int roomId);
+
+        List<BookingDetail> GetBookingDetailsByCustomerID(int customerId);
     }
 }

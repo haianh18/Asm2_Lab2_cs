@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i/0k78pYyUUPvEncuPDoDSG70d+j0aFLwEOKW01+ht26ftQjmSp1rHMrrZ3O1wQ0eMFL3OK4fib46jFrMIMdlQ==",
+  "dgSpecHash": "ljSdLBi8R38bKOEej+B4DKFG+QOz6VVo4NAiH2y7g0V1L3rqgrKfUcnXX2J8NaUI0ZDbzDSRKRduEDOj3TqsUg==",
   "success": true,
-  "projectFilePath": "D:\\FPT\\PRN212\\Lab2_ProductManagement\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "D:\\FPT\\PRN212\\Assignment_2\\Lab2_ProductManagement\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HaiAnh\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\HaiAnh\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -24,6 +24,6 @@ namespace Repositories
 
         public List<BookingReservation> GetBookingByDateRange(DateTime start, DateTime end) => BookingReservationDAO.Instance.GetBookingByDateRange(start, end);
 
-
+        public bool IsRoomBooked(int roomId, DateTime startDate, DateTime endDate) => BookingReservationDAO.Instance.IsRoomBooked(roomId, startDate, endDate);
     }
 }

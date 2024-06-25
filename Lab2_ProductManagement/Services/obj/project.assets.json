@@ -3174,11 +3174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT\\PRN212\\Lab2_ProductManagement\\Services\\Services.csproj",
+      "projectUniqueName": "D:\\FPT\\PRN212\\Assignment_2\\Lab2_ProductManagement\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "D:\\FPT\\PRN212\\Lab2_ProductManagement\\Services\\Services.csproj",
+      "projectPath": "D:\\FPT\\PRN212\\Assignment_2\\Lab2_ProductManagement\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\HaiAnh\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT\\PRN212\\Lab2_ProductManagement\\Services\\obj\\",
+      "outputPath": "D:\\FPT\\PRN212\\Assignment_2\\Lab2_ProductManagement\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3200,11 +3200,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\FPT\\PRN212\\Lab2_ProductManagement\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "D:\\FPT\\PRN212\\Lab2_ProductManagement\\BusinessObjects\\BusinessObjects.csproj"
+            "D:\\FPT\\PRN212\\Assignment_2\\Lab2_ProductManagement\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "D:\\FPT\\PRN212\\Assignment_2\\Lab2_ProductManagement\\BusinessObjects\\BusinessObjects.csproj"
             },
-            "D:\\FPT\\PRN212\\Lab2_ProductManagement\\Repositories\\Repositories.csproj": {
-              "projectPath": "D:\\FPT\\PRN212\\Lab2_ProductManagement\\Repositories\\Repositories.csproj"
+            "D:\\FPT\\PRN212\\Assignment_2\\Lab2_ProductManagement\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\FPT\\PRN212\\Assignment_2\\Lab2_ProductManagement\\Repositories\\Repositories.csproj"
             }
           }
         }

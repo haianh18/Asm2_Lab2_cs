@@ -2,6 +2,7 @@
 using Microsoft.Data.SqlClient;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 using System.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace DataAccessLayer
 {
@@ -119,6 +120,38 @@ namespace DataAccessLayer
             {
                 throw new Exception(e.Message);
             }
+        }
+
+        public List<BookingDetail> GetBookingDetailsByRoomID(int roomId)
+        {
+            var bookingDetails = new List<BookingDetail>();
+            try
+            {
+                using var db = new FuminiHotelManagementContext();
+                bookingDetails = [.. db.BookingDetails.Where(c => c.RoomId == roomId)];
+                return bookingDetails;
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
+        }
+        public List<BookingDetail> GetBookingDetailsByCustomerID(int customerId)
+        {
+            List<BookingDetail> list = new List<BookingDetail>();
+            try
+            {
+                using var context = new FuminiHotelManagementContext();
+                list = context.BookingDetails.Where(b => b.BookingReservation.CustomerId == customerId)
+                    .Include(b => b.BookingReservation)
+                    .Include(b => b.Room)
+                    .ToList();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+            return list;
         }
     }
 }

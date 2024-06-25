@@ -1,4 +1,6 @@
 ﻿using BusinessObjects.Models;
+using Repositories;
+using Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,10 +22,11 @@ namespace LaiVuHaiAnhWPF
     /// </summary>
     public partial class CustomerWindow : Window
     {
-
+        private CustomerService customerRepository;
         public CustomerWindow()
         {
             InitializeComponent();
+            customerRepository = new CustomerRepository();
         }
         public Customer Account { get; set; }
 
@@ -38,11 +41,13 @@ namespace LaiVuHaiAnhWPF
         {
             CustomerDetail customerDetail = new CustomerDetail
             {
-                Title = "Mange Profile",
+                Title = "Manage Profile",
                 InsertOrUpdate = true,
                 CustomerInfo = Account
             };
+
             customerDetail.ShowDialog();
+            Account = customerRepository.GetCustomerById(Account.CustomerId);
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)

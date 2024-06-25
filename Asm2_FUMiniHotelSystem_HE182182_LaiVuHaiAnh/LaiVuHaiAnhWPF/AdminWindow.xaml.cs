@@ -37,6 +37,13 @@ namespace LaiVuHaiAnhWPF
             this.Close();
         }
 
+        private void btnManageBooking_Click(object sender, RoutedEventArgs e)
+        {
+            ManageBookingWindow manageBooking = new ManageBookingWindow();
+            manageBooking.Show();
+            this.Close();
+        }
+
         private void btnLogOut_Click(object sender, RoutedEventArgs e)
         {
             LogInWindow loginWindow = new LogInWindow();

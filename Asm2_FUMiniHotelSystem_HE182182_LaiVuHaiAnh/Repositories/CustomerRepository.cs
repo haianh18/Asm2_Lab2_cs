@@ -24,5 +24,7 @@ namespace Repositories
         public void SaveCustomer(Customer customer) => CustomerDAO.Instance.SaveCustomer(customer);
 
         public void UpdateCustomer(Customer customer) => CustomerDAO.Instance.UpdateCustomer(customer);
+
+       
     }
 }

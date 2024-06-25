@@ -46,6 +46,11 @@ namespace LaiVuHaiAnhWPF
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
+            if (this.Title.Equals("Manage Profile"))
+            {
+                cboStatus.Visibility = Visibility.Collapsed;
+                lblStatus.Visibility = Visibility.Collapsed;
+            }
             LoadStatus();
             cboStatus.SelectedIndex = 0;
             if (InsertOrUpdate)

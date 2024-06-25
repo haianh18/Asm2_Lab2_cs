@@ -125,7 +125,7 @@ namespace LaiVuHaiAnhWPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/LaiVuHaiAnhWPF;V1.0.0.0;component/roomdetail.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/LaiVuHaiAnhWPF;component/roomdetail.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\RoomDetail.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

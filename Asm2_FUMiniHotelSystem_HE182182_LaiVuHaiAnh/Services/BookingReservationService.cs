@@ -17,5 +17,7 @@ namespace Services
         List<BookingReservation> GetBookingReservationsByCustomerId(int customerId);
 
         List<BookingReservation> GetBookingByDateRange(DateTime start, DateTime end);
+
+        bool IsRoomBooked(int roomId, DateTime startDate, DateTime endDate);
     }
 }

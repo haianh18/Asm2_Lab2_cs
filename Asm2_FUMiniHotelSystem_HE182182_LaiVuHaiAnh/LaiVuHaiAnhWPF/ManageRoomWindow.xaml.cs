@@ -23,10 +23,12 @@ namespace LaiVuHaiAnhWPF
     public partial class ManageRoomWindow : Window
     {
         private RoomInformationService roomInformationService;
+        private BookingDetailService bookingDetailService;
         public ManageRoomWindow()
         {
             InitializeComponent();
             roomInformationService = new RoomInformationRepository();
+            bookingDetailService = new BookingDetailRepository();
         }
         private void LoadRoomList()
         {
@@ -106,14 +108,29 @@ namespace LaiVuHaiAnhWPF
                     RoomInformation room = roomInformationService.GetRoomInformationById(id);
                     MessageBoxResult result = MessageBox
                         .Show($"Do you want to delete room {room.RoomNumber}?", "Delete", MessageBoxButton.YesNo, MessageBoxImage.Question);
-                    if (result == MessageBoxResult.Yes)
+                    if (result == MessageBoxResult.No)
+                    {
+                        return;
+                        
+                    }
+                    //check if room has been registered
+                    List<BookingDetail> bookings = bookingDetailService.GetBookingDetailsByRoomID(id);
+                    if(bookings == null || bookings.Count == 0)//delete
                     {
                         roomInformationService.DeleteRoomInformation(room);
+                        MessageBox.Show("Room deleted successfully!");
                     }
+                    else//change status
+                    {
+                        room.RoomStatus = 2;//inactive
+                        roomInformationService.UpdateRoomInformation(room);
+                        MessageBox.Show("Room is occupied in a Booking! Successfully change the Room status!");
+                    }
+                    
                 }
                 else
                 {
-                    MessageBox.Show("You must select a product!");
+                    MessageBox.Show("You must select a room!");
                 }
             }
             catch (Exception ex)
@@ -121,6 +138,10 @@ namespace LaiVuHaiAnhWPF
                 MessageBox.Show(ex.Message);
             }
             LoadRoomList();
+        }
+        private void txtSearchRoom_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            // Phương thức này để lại trống vì logic đã được xử lý trong XAML
         }
 
         private void btnSearchRoom_Click(object sender, RoutedEventArgs e)
@@ -163,6 +184,10 @@ namespace LaiVuHaiAnhWPF
             AdminWindow adminWindow = new AdminWindow();
             this.Close();
             adminWindow.Show();
+        }
+        public void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            LoadRoomList();
         }
     }
 }

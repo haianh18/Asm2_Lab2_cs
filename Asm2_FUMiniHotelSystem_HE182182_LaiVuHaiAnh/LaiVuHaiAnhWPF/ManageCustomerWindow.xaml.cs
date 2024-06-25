@@ -142,6 +142,10 @@ namespace LaiVuHaiAnhWPF
                 MessageBox.Show(ex.Message, "Error on search customers");
             }
         }
+        private void txtSearchCustomer_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            // Phương thức này để lại trống vì logic đã được xử lý trong XAML
+        }
 
         private void btnLoadCustomer_Click(object sender, RoutedEventArgs e)
         {
@@ -160,6 +164,11 @@ namespace LaiVuHaiAnhWPF
             AdminWindow adminWindow = new AdminWindow();
             this.Close();
             adminWindow.Show();
+        }
+
+        public void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            LoadCustomerList();
         }
     }
 }

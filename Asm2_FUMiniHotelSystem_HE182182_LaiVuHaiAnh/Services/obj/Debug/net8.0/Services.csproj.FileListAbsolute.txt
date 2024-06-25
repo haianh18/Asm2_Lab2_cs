@@ -13,3 +13,4 @@ D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\obj\Debug\net8.0\refint\Services.dll
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\obj\Debug\net8.0\Services.pdb
 D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\obj\Debug\net8.0\ref\Services.dll
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\obj\Debug\net8.0\Services.sourcelink.json

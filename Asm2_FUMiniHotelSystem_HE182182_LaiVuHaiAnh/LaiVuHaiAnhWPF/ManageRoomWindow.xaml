@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LaiVuHaiAnhWPF"
             mc:Ignorable="d"  WindowStartupLocation="CenterScreen"
-    Title="Manage Room" Height="450" Width="800">
+    Title="Manage Room" Height="450" Width="800"
+        Loaded="Window_Loaded">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="50"/>
@@ -75,10 +76,32 @@
         FontSize="18"
         Name="btnSearchRoom"
         Click="btnSearchRoom_Click"/>
-            <TextBox Width="200" 
-         Height="30"
-         VerticalContentAlignment="Center"
-         Name="txtSearchRoom" ></TextBox>
+            <Grid>
+                <TextBox Width="200" 
+                         Height="30"
+                         VerticalContentAlignment="Center"
+                         Name="txtSearchRoom"
+                         Margin="10,0,0,0"
+                         TextChanged="txtSearchRoom_TextChanged"/>
+
+                <TextBlock Text="Search by room number"
+                           IsHitTestVisible="False"
+                           Foreground="Gray"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Left"
+                           Margin="15,0,0,0">
+                    <TextBlock.Style>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding Text, ElementName=txtSearchRoom}" Value="">
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </TextBlock.Style>
+                </TextBlock>
+            </Grid>
             <TextBox Name="txtRoomID" Visibility="Hidden"/>
         </StackPanel>
         <DataGrid Grid.Column="1" 

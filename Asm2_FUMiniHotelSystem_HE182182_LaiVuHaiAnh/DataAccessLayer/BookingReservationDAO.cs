@@ -121,5 +121,18 @@ namespace DataAccessLayer
             var bookings = GetBookingReservations();
             return bookings.Where(b => b.BookingDate >= start && b.BookingDate <= end).ToList();
         }
+
+        public bool IsRoomBooked(int roomId, DateTime startDate, DateTime endDate)
+        {
+            // Logic để kiểm tra xem phòng đã được đặt chưa
+            using (var context = new FuminiHotelManagementContext())
+            {
+                return context.BookingDetails
+                    .Any(bd => bd.RoomId == roomId &&
+                               ((startDate >= bd.StartDate && startDate <= bd.EndDate) ||
+                                (endDate >= bd.StartDate && endDate <= bd.EndDate) ||
+                                (startDate <= bd.StartDate && endDate >= bd.EndDate)));
+            }
+        }
     }
 }

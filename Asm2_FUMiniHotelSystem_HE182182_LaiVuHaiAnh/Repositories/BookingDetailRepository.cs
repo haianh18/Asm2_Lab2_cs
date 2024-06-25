@@ -15,10 +15,13 @@ namespace Repositories
 
         public List<BookingDetail> GetBookingDetails() => BookingDetailDAO.Instance.GetBookingDetails();
         public List<BookingDetail> GetBookingDetailsByBookingID(int bookingId) => BookingDetailDAO.Instance.GetBookingDetailsByBookingID(bookingId);
+        public List<BookingDetail> GetBookingDetailsByRoomID(int roomId) => BookingDetailDAO.Instance.GetBookingDetailsByRoomID(roomId);
 
         public void SaveBookingDetail(BookingDetail bookingDetail) => BookingDetailDAO.Instance.SaveBookingDetail(bookingDetail);
 
         public void UpdateBookingDetail(BookingDetail bookingDetail) => BookingDetailDAO.Instance.UpdateBookingDetail(bookingDetail);
+
+        public List<BookingDetail> GetBookingDetailsByCustomerID(int customerId) => BookingDetailDAO.Instance.GetBookingDetailsByCustomerID(customerId) ;
 
     }
 }
